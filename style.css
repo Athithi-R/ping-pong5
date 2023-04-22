@@ -1,0 +1,41 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+  float: right;
+  border: 1px solid white;
+}
+
+#game_btn{
+font-size: 22px;
+}
+
+.copy-right-footer{
+  width: 100%;
+  background-color: yellow;
+}
+
+h4{
+  background-color: blueviolet;
+  line-height: 2;
+  width: 90%;
+  }
+
+  #restart_btn{
+    font-size: 20px;
+  }
+
+canvas{
+  border: 4px;
+  border-radius: 25px;
+  border-color: magenta;
+  box-shadow: 5px 5px 5px yellow;
+}
+
+  
